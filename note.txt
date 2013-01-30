@@ -1,0 +1,5 @@
+tugas praktikum bd 1
+-databse (mysql, oracle)
+-spring
+-hibernate
+-java 7
