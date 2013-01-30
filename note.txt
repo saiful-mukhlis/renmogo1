@@ -1,5 +1,5 @@
 tugas praktikum bd 1
--databse (mysql, oracle)
+-databse (mysql, oracle) - belum le set cascade
 -spring
 -hibernate
 -java 7
